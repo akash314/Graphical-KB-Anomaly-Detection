@@ -1,0 +1,11 @@
+﻿EXPORT Layout_Wiki := RECORD	
+
+  STRING10 Revision;
+	STRING6 ArticleId;
+	STRING15 RevId;
+	STRING50 User;
+	STRING20 Date;
+	STRING20 Extra1;
+	STRING2 Extra2;
+
+END;
